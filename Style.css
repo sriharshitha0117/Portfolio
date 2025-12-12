@@ -1,0 +1,94 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+
+/* Header Section */
+header {
+    background: #333;
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+header p {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/* Section Titles */
+h2 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 28px;
+    color: #333;
+}
+
+/* About Section */
+.about {
+    background: #fff;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.details p {
+    font-size: 18px;
+    padding: 5px 0;
+}
+
+/* Skills Section */
+.skills {
+    background: #fff;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.skills ul {
+    list-style-type: square;
+    padding-left: 40px;
+    font-size: 18px;
+}
+
+/* Projects Section */
+.projects {
+    background: #fff;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.project-card {
+    background: #eaeaea;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+.project-card h3 {
+    margin: 0 0 10px;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
